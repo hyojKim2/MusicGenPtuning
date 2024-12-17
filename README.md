@@ -1,5 +1,5 @@
+## HuggingFace MusicGen P-Tuning 
 2024.09~2024.12
-##HuggingFace MusicGen P-Tuning 
 
 1. MusicGen 모델 분석 및 api를 통한 음악 생성
 2. 논문을 통한 MusicGen 구조 및 동작 분석 
